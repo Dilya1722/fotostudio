@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -145,9 +145,8 @@
             <BR>
             <INPUT TYPE="SUBMIT" VALUE="отправить отзыв">
             <INPUT TYPE="RESET" VALUE="очистить отзыв">
-            </FORM>
+          
         <h3 class="live14">по вопросам писать на почту:<a href="87084946198">
                             fotostudio@mail.ru</a></h3>
 
-</body>
-</html>
+
